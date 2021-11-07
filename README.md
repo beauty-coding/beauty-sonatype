@@ -1,0 +1,2 @@
+# beauty-sonatype
+deploy jar
